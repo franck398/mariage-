@@ -1,4 +1,6 @@
 #!/bin/sh
+#
+echo "merci de finaliser la dote au prealable"
 echo "bienvenue au mariage"
 echo "veuillez entrer le nom du marié"
 read marie
