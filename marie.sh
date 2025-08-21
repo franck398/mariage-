@@ -1,5 +1,5 @@
 #!/bin/sh
-
+echo "bienvenue au mariage"
 echo "veuillez entrer le nom du marié"
 read marie
 if [$marie -gt 2025]
